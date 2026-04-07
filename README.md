@@ -16,6 +16,8 @@ TravelBuddy là một trợ lý ảo du lịch có khả năng tư vấn, tìm k
 ## 📁 Cấu trúc thư mục
 ```text
 LAB04_2A202600180/
+├── assets/
+│   └── test_results/    # Kết quả 5 test cases
 ├── .env.example         # Template biến môi trường
 ├── .gitignore           # Cấu hình bỏ qua các file nhạy cảm/rác
 ├── README.md            # Tài liệu dự án
